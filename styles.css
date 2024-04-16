@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.quadrado {
+    text-align: center;
+    border: 2px solid black;
+    width: 50px;
+    height: 10vh;
+    display: inline-block;
+    margin: 5px;
+    padding: 40px;
+    color: #eee;
+    background: #eee;
+    cursor: pointer;
+    font-size: 60px;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.reiniciar button {
+ margin-top: 10px;
+ background-color: #eee;
+ width: 100px;
+ height: 30px;
+ cursor: pointer;
+}
